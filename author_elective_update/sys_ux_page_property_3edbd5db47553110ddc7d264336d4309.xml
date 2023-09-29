@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value=" NeedIt Experience">c0db555b47553110ddc7d264336d43c4</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 20:36:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3edbd5db47553110ddc7d264336d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_property_3edbd5db47553110ddc7d264336d4309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 20:36:35</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_58872_needit.c0db555b47553110ddc7d264336d43c4.root.chrome_header</unique_name>
+        <value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=3edbd5db47553110ddc7d264336d4309"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>248e463bdb35295cc1a4c59705961993</instance_id>
+        <instance_name>dev169989</instance_name>
+        <name>sys_ux_page_property_3edbd5db47553110ddc7d264336d4309</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value=" NeedIt Experience">c0db555b47553110ddc7d264336d43c4</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-20 20:36:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>3edbd5db47553110ddc7d264336d4309</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_page_property_3edbd5db47553110ddc7d264336d4309</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-20 20:36:35</sys_updated_on><type>json</type><unique_name>x_58872_needit.c0db555b47553110ddc7d264336d43c4.root.chrome_header</unique_name><value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=3edbd5db47553110ddc7d264336d4309"/></record_update>]]></payload>
+        <payload_hash>-1133702512</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>e6ea159747553110ddc7d264336d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 20:36:35</sys_created_on>
+        <sys_id>3adbd5db47553110ddc7d264336d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ab44f137f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 20:36:35</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>7edbd5dbcc553110f9a004513f690d0b</update_guid>
+        <update_guid_history>7edbd5dbcc553110f9a004513f690d0b:-1133702512</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 21:10:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3b44228221d24c6695b917c4e37445a1</sys_id>
+        <sys_metadata>3edbd5db47553110ddc7d264336d4309</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_3edbd5db47553110ddc7d264336d4309</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_3edbd5db47553110ddc7d264336d4309">3adbd5db47553110ddc7d264336d430c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 21:10:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
